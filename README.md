@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhtasimul
-- 👀 I am full-stack developer
+- 👀 I am a full-stack developer
 
 
 <!---
