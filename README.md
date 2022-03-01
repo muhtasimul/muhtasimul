@@ -3,7 +3,8 @@
 <p>I am a MERN Stack Developer.</p>
 <hr/>
 
-:hourglass: Currently working on my full-stack app Canadian Holidays made with Next.js & MongoDB.
+<h2>:man_technologist:Current Projects</h2>
+<p>:hourglass: Currently working on my full-stack app Canadian Holidays made with Next.js & MongoDB.</p>
 
 <hr/>
 
