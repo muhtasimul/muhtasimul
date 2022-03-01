@@ -9,7 +9,7 @@ Take A Look At My Projects
   </tr>
   <tr>
     <td>
-        [Weather App](https://github.com/muhtasimul/weather-app)
+        muhtasimul/weather-app
     </td>
   </tr>
 </table>
