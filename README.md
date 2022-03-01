@@ -1,4 +1,6 @@
-👋 Hi, I’m @muhtasimul & I am a full-stack developer
+👋 Hi, I’m @muhtasimul & I am a full-stack developer. 
+
+:hourglass: Currently working on my full-stack app Canadian Holidays made with Next.js & MongoDB.
 
 Take A Look At My Projects
 
