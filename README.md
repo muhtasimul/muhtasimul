@@ -2,17 +2,8 @@
 
 Take A Look At My Projects
 
-<table>
-  <tr>
-    <th>Front End Apps</th>
-    <th>FullStack Apps</th>
-  </tr>
-  <tr>
-    <td>
-        muhtasimul/weather-app
-    </td>
-  </tr>
-</table>
+|Front End Apps | Fullstack Apps|
+|[Weather App](https://github.com/muhtasimul/weather-app)|[Todo-List-App](https://github.com/muhtasimul/todo-task-app)|
 
 
 <!---
