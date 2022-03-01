@@ -1,8 +1,13 @@
-👋 Hi, I’m @muhtasimul & I am a full-stack developer. 
+
+<h1>👋 Hello, I’m @muhtasimul.</h1>
+<p>I am a MERN Stack Developer.</p>
+<hr/>
 
 :hourglass: Currently working on my full-stack app Canadian Holidays made with Next.js & MongoDB.
 
-Take A Look At My Projects
+<hr/>
+
+<h2>:desktop_computer: Take A Look At My Projects</h2>
 
 |Front End Apps | Fullstack Apps|
 | ------------- | ------------- | 
