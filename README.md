@@ -15,6 +15,7 @@
 |[Calculator App](https://github.com/muhtasimul/calculator-react-app)|[Learn BC ChatBot](https://github.com/muhtasimul/chatbot-learnBC)
 [GST PST App](https://github.com/muhtasimul/GST-PST-React-App)| [Todo-List-App](https://github.com/muhtasimul/todo-task-app)|
 ----------------|[Secrets App](https://github.com/muhtasimul/Secrets_App)|
+----------------|[Canadian Holidays](https://github.com/muhtasimul/Canadian-Holidays)
 ----------------| [Contact Form](https://github.com/muhtasimul/Contact-Form)|
 
 
