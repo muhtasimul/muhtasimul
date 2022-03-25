@@ -4,7 +4,7 @@
 <hr/>
 
 <h2>:man_technologist:Current Projects</h2>
-<p>:hourglass: Currently working on my full-stack app Canadian Holidays created with with Next.js & MongoDB.</p>
+<p>✨ Check out my latest project Learn BC ChatBot </p>
 
 <hr/>
 
